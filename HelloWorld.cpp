@@ -4,6 +4,6 @@ using namespace std;
 
 int mian(){
 	cout << "Hello World!" << endl;
-	cout << "Hello MCF from Maxwell!" << endl;
+	cout << "Hello MCF from Maxwell!1" << endl;
 	return 0;
 }
